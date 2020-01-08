@@ -1,0 +1,11 @@
+C:\Users\haozi zhang\Desktop\every_FanShe\every_FanShe\obj\Debug\netcoreapp3.1\every_FanShe.csprojAssemblyReference.cache
+C:\Users\haozi zhang\Desktop\every_FanShe\every_FanShe\obj\Debug\netcoreapp3.1\every_FanShe.AssemblyInfoInputs.cache
+C:\Users\haozi zhang\Desktop\every_FanShe\every_FanShe\obj\Debug\netcoreapp3.1\every_FanShe.AssemblyInfo.cs
+C:\Users\haozi zhang\Desktop\every_FanShe\every_FanShe\bin\Debug\netcoreapp3.1\every_FanShe.exe
+C:\Users\haozi zhang\Desktop\every_FanShe\every_FanShe\bin\Debug\netcoreapp3.1\every_FanShe.deps.json
+C:\Users\haozi zhang\Desktop\every_FanShe\every_FanShe\bin\Debug\netcoreapp3.1\every_FanShe.runtimeconfig.json
+C:\Users\haozi zhang\Desktop\every_FanShe\every_FanShe\bin\Debug\netcoreapp3.1\every_FanShe.runtimeconfig.dev.json
+C:\Users\haozi zhang\Desktop\every_FanShe\every_FanShe\bin\Debug\netcoreapp3.1\every_FanShe.dll
+C:\Users\haozi zhang\Desktop\every_FanShe\every_FanShe\bin\Debug\netcoreapp3.1\every_FanShe.pdb
+C:\Users\haozi zhang\Desktop\every_FanShe\every_FanShe\obj\Debug\netcoreapp3.1\every_FanShe.dll
+C:\Users\haozi zhang\Desktop\every_FanShe\every_FanShe\obj\Debug\netcoreapp3.1\every_FanShe.pdb

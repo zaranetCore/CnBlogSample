@@ -1,0 +1,30 @@
+﻿@using mvcWebFirstSolucation.Models;
+@model ScopeVm
+
+<li>
+    <label>
+        <input type="checkbox" 
+               name="ScopesConsented"
+               id="scopes_@Model.name" 
+               value="@Model.name" 
+               checked="@Model.Checked"
+               disabled="@Model.Required"/>
+
+        @if (Model.Required)
+        {   
+            <input type="hidden" name="ScopesConsented" value="@Model.name" />
+        }
+
+        <strong>@Model.name</strong>
+        @if (Model.Emphasize)
+        {
+            <span class="glyphicon glyphicon-exclamation-sign"></span>
+        }
+    </label>
+    @if (!string.IsNullOrEmpty(Model.Description))
+    {
+        <div>
+            <label for="scopes_@Model.name">@Model.Description</label>
+        </div>
+    }
+</li>
