@@ -2,18 +2,9 @@
 Using IdentityServer to implement SSO login mode in ASP.NET Core is very simple
 
 
-[========]
+引用 Blockquotes
+引用文本 Blockquotes
 
-### 绘制流程图 Flowchart
+引用的行内混合 Blockquotes
 
-```flow
-st=>start: 用户登陆
-op=>operation: 登陆操作
-cond=>condition: 登陆成功 Yes or No?
-e=>end: 进入后台
-
-st->op->cond
-cond(yes)->e
-cond(no)->op
-```
-[========]
+引用：如果想要插入空白换行即<br />标签，在插入处先键入两个以上的空格然后回车即可，普通链接。
