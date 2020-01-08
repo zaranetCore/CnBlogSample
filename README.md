@@ -1,16 +1,7 @@
-
-[========]
-
-### 绘制流程图 Flowchart
-
-```flow
-st=>start: 用户登陆
-op=>operation: 登陆操作
-cond=>condition: 登陆成功 Yes or No?
-e=>end: 进入后台
-
-st->op->cond
-cond(yes)->e
-cond(no)->op
-```
-[========]
+# Welcome to my blog proficiency center
+I will keep updating this repository, this will be used to save my daily life, haha, hope so..
+### function list
+| Project     | 价格   |
+| --------    | -----:  |
+| grpc service batch registration      | √  |
+| IdentityServer 4 sso Login        |    √  |
