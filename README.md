@@ -2,9 +2,6 @@
 Using IdentityServer to implement SSO login mode in ASP.NET Core is very simple
 
 
-
-> Print Test: Ctrl + P
-
 [========]
 
 ### 绘制流程图 Flowchart
