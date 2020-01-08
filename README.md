@@ -3,7 +3,11 @@ Using IdentityServer to implement SSO login mode in ASP.NET Core is very simple
 
 
 
-### Grpc Service Bulk injection Flowchart
+> Print Test: Ctrl + P
+
+[========]
+
+### 绘制流程图 Flowchart
 
 ```flow
 st=>start: 用户登陆
@@ -15,3 +19,4 @@ st->op->cond
 cond(yes)->e
 cond(no)->op
 ```
+[========]
